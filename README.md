@@ -1,4 +1,4 @@
-# The-Living-Internet-Project
+# The Living Internet Project
 
 El Internet Vivo
 
