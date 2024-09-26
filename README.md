@@ -20,4 +20,4 @@ A Internet Viva
 
 الإنترنت الحي
 
-## The Living Internet Project - an indexing to save humanity from mediocrity.
+## The Living Internet - an indexing project to save humanity from mediocrity.
