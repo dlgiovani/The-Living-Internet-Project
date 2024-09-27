@@ -1,0 +1,26 @@
+{
+  "name": "the-living-internet-project",
+  "version": "1.0.0",
+  "description": "an indexing to save humanity from mediocrity online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlgiovani/The-Living-Internet-Project.git"
+  },
+  "keywords": [
+    "internet",
+    "aesthetic",
+    "self-expression",
+    "human",
+    "contact"
+  ],
+  "author": "Giovani Drosda Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlgiovani/The-Living-Internet-Project/issues"
+  },
+  "homepage": "https://github.com/dlgiovani/The-Living-Internet-Project#readme"
+}
